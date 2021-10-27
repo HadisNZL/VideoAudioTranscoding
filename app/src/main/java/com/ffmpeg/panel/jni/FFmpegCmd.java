@@ -20,10 +20,6 @@ public class FFmpegCmd {
 
     private final static String TAG = FFmpegCmd.class.getSimpleName();
 
-    private final static int RESULT_SUCCESS = 1;
-
-    private final static int RESULT_ERROR = 0;
-
     private static OnHandleListener mProgressListener;
 
     private static final int STATE_INIT = 0;
