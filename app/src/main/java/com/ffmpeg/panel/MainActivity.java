@@ -16,6 +16,10 @@ import com.ffmpeg.panel.util.FileUtil;
 
 import java.io.File;
 
+/**
+ * fork 更新
+ * https://www.cnblogs.com/youcong/p/10257394.html
+ */
 public class MainActivity extends AppCompatActivity {
     private TextView ttt, ttt01;
 
